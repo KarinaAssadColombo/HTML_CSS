@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgray;
+    margin: 0px;
+
+   } 
+   nav{
+    background-color: gray;
+    padding: 3px;
+    box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.315); /*horizontal, vertical, espaçamento da sombra */
+   }       
+   nav > a{ /* tirar o sublinhado de link das referencias*/
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px; /* separar os links */
+   }
+   
+   nav > a:hover{ /* passar mouse emcima */
+     text-decoration: underline;
+   }
+
+   header{
+    background-color:white;
+    padding: 10px;
+    margin: 10px;
+   }
+   article{
+    background-color: lightgray;
+    padding: 5px;
+   }
+   article > aside {
+    background-color: rgb(190, 189, 189);
+
+   }
+   main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius:20px ; /* arredondar borda*/
+  }
+   footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+   }
+   footer >p{ /* tira a margin do footer */
+      margin: 0px;
+   }

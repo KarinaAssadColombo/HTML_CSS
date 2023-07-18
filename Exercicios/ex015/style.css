@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* 
+ primeiro configura o generico e depois as particularidades
+   tudo q em :
+      HTML é id , em css é #
+      HTML é class , em css é .
+
+    dentro de um mesmo dopcumento so pode ter 1 id, mais de um funciona mas esta errado, regra do css3
+    
+    class pode usar varios no mesmo documento
+    no mesmo elemento posso ter um id e uma class mas o id sobrepoem a class
+*/
+
+body{
+    background-color:rgb(218, 248, 218) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(0, 78, 0);
+}
+
+/* se eu tirar h1.. todos id do html q tiverem no principal fica o mesmo */
+h1#principal {
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+
+h2{
+    color: rgba(0, 128, 0, 0.767);
+}
+.basico{
+  color: green;
+  font-weight: bold;
+}
+
+.intermediario{
+   color:rgb(180, 180, 29);
+}
+
+.avancado{
+   color:rgb(144, 11, 11);
+}
+
+.destaque{
+    background-color: rgba(202, 202, 119, 0.737);
+}

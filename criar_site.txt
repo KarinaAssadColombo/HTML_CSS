@@ -1,0 +1,67 @@
+﻿** Ferramenta de planejamento de construção de site
+https://mockflow.com/
+email:karinaassad@hotmail.com
+senha: Senha.ka10
+
+
+** cria prog html ...  ! + enter
+** Envelopar uma palavra ctrl + shifit + p  = vai abrir para selecionar a opção abaixo, dar enter e depois colocar qual tag vc vai querer envelopar e dar enter novamente
+diferenca de class e id = é que um id é usado apenas para identificar um único elemento em nosso HTML
+
+** gerador de paleta de cores
+https://color.adobe.com/pt/create/color-wheel 
+
+** fontes google
+https://fonts.google.com/
+https://www.dafont.com/pt/
+
+
+** fotos ,videos gratuitos
+https://www.pexels.com/pt-br/ 
+
+
+** conversao de videos
+https://handbrake.fr/ 
+
+
+** emoji
+https://emojipedia.org/
+
+** git = manter versoes do software no computador
+   github = backup de tudo na nuvem de forma gratuita
+
+conta github
+   username:KarinaAssadColombo
+   usuario:karinaassad@hotmail.com
+   senha:senha.ka10
+
+- banco de dados mysql
+    https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+- css
+modulo01 = gustavo guanabara
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+
+modulo02 = gustavo guanabara
+https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
+
+
+
+https://www.youtube.com/watch?v=w1J6gY40yMo&ab_channel=Programa%C3%A7%C3%A3oWeb
+
+- javascript
+https://www.youtube.com/watch?v=McKNP3g6VBA&ab_channel=Programa%C3%A7%C3%A3oWeb
+
+
+
+https://www.youtube.com/watch?v=I_vi2q6sC1k&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=37
+
+modulo3
+https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ
+
+modulo 4
+https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT
+https://www.youtube.com/watch?v=NgWExh3bswg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=3
+
+livros:
+
+Design para quem não é designer
